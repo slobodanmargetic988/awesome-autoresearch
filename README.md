@@ -1,5 +1,7 @@
 # Awesome AutoResearch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Support my work on this fork](https://img.shields.io/badge/Support%20my%20work%20on%20this%20fork-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/slobodanmargetic988)
+
 A curated list of AutoResearch use cases **with optimization traces** and open source implementations. Every entry includes a link to the actual optimization trajectory so you can see what the agent tried, not just the final result.
 
 ## What is AutoResearch?
